@@ -1,0 +1,1 @@
+FROM qualys/redis-client-for-jira-integration:1.2.0

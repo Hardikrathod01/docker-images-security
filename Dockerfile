@@ -1,0 +1,1 @@
+FROM qualys/qualys-client-for-jira-integration:1.3.2
