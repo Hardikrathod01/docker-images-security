@@ -4,6 +4,7 @@
 
 - Run the following command to build the image of Qualys Client
 
+
 ```
 docker build -t <your tag name> .
 ```
